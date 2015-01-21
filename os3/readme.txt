@@ -1,6 +1,5 @@
 
 Name:		Ravjot Singh
-Student #:	87050134
 ------------------------
 
 
