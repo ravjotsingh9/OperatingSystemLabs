@@ -1,0 +1,13 @@
+ANSWER:
+	On modification to the BSIZE, there is no change in the output 
+	in the cases where the sleep time is considerable. But in the
+	cases where the sleep time is short, change in BSIZE does shows
+	the change in the output. In these cases where the sleep time
+	is small,the producer produces consequently till the buffer gets 
+	full and consumer consumes consequently till the buffer get empty.
+
+	On reversing the order of the signal instruction and the 
+	lock-releasing,there is not any difference in the output with and
+	without the sleep time.
+	Conceptually ,the reverse order makes more sense as it raise the
+	signal after the mutex is unlocked.

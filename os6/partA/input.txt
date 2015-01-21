@@ -1,0 +1,2 @@
+C:\\WINDOWS\\SYSTEM32\\NOTEPAD.EXE temp.txt
+C:\Program Files (x86)\FileZilla FTP Client\filezilla
