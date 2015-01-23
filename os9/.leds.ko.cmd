@@ -1,1 +1,0 @@
-cmd_/ubc/icics/mss/ravjot1/cics505/os9/leds.ko := ld -r -m elf_x86_64 -T /usr/src/linux-3.7.10-1.28/scripts/module-common.lds --build-id  -o /ubc/icics/mss/ravjot1/cics505/os9/leds.ko /ubc/icics/mss/ravjot1/cics505/os9/leds.o /ubc/icics/mss/ravjot1/cics505/os9/leds.mod.o
