@@ -1,0 +1,127 @@
+consumer starting 
+consumer has the lock. 
+consumer waiting, empty buffer ... 
+producer starting... 
+producer has the lock. 
+producing object number: 0 [M]
+consuming object number 0 [M]
+consumer has the lock. 
+consumer waiting, empty buffer ... 
+producer has the lock. 
+producing object number: 1 [o]
+consuming object number 1 [o]
+consumer has the lock. 
+consumer waiting, empty buffer ... 
+producer has the lock. 
+producing object number: 2 [r]
+consuming object number 2 [r]
+consumer has the lock. 
+consumer waiting, empty buffer ... 
+producer has the lock. 
+producing object number: 3 [e]
+consuming object number 3 [e]
+consumer has the lock. 
+consumer waiting, empty buffer ... 
+producer has the lock. 
+producing object number: 4 [ ]
+consuming object number 4 [ ]
+consumer has the lock. 
+consumer waiting, empty buffer ... 
+producer has the lock. 
+producing object number: 5 [t]
+consuming object number 5 [t]
+consumer has the lock. 
+consumer waiting, empty buffer ... 
+producer has the lock. 
+producing object number: 6 [h]
+consuming object number 6 [h]
+consumer has the lock. 
+consumer waiting, empty buffer ... 
+producer has the lock. 
+producing object number: 7 [a]
+consuming object number 7 [a]
+consumer has the lock. 
+consumer waiting, empty buffer ... 
+producer has the lock. 
+producing object number: 8 [n]
+consuming object number 8 [n]
+consumer has the lock. 
+consumer waiting, empty buffer ... 
+producer has the lock. 
+producing object number: 9 [ ]
+consuming object number 9 [ ]
+consumer has the lock. 
+consumer waiting, empty buffer ... 
+producer has the lock. 
+producing object number: 10 [m]
+consuming object number 10 [m]
+consumer has the lock. 
+consumer waiting, empty buffer ... 
+producer has the lock. 
+producing object number: 11 [e]
+consuming object number 11 [e]
+consumer has the lock. 
+consumer waiting, empty buffer ... 
+producer has the lock. 
+producing object number: 12 [e]
+consuming object number 12 [e]
+consumer has the lock. 
+consumer waiting, empty buffer ... 
+producer has the lock. 
+producing object number: 13 [t]
+consuming object number 13 [t]
+consumer has the lock. 
+consumer waiting, empty buffer ... 
+producer has the lock. 
+producing object number: 14 [s]
+consuming object number 14 [s]
+consumer has the lock. 
+consumer waiting, empty buffer ... 
+producer has the lock. 
+producing object number: 15 [ ]
+consuming object number 15 [ ]
+consumer has the lock. 
+consumer waiting, empty buffer ... 
+producer has the lock. 
+producing object number: 16 [t]
+consuming object number 16 [t]
+consumer has the lock. 
+consumer waiting, empty buffer ... 
+producer has the lock. 
+producing object number: 17 [h]
+consuming object number 17 [h]
+consumer has the lock. 
+consumer waiting, empty buffer ... 
+producer has the lock. 
+producing object number: 18 [e]
+consuming object number 18 [e]
+consumer has the lock. 
+consumer waiting, empty buffer ... 
+producer has the lock. 
+producing object number: 19 [ ]
+consuming object number 19 [ ]
+consumer has the lock. 
+consumer waiting, empty buffer ... 
+producer has the lock. 
+producing object number: 20 [e]
+consuming object number 20 [e]
+consumer has the lock. 
+consumer waiting, empty buffer ... 
+producer has the lock. 
+producing object number: 21 [y]
+consuming object number 21 [y]
+consumer has the lock. 
+consumer waiting, empty buffer ... 
+producer has the lock. 
+producing object number: 22 [e]
+consuming object number 22 [e]
+consumer has the lock. 
+consumer waiting, empty buffer ... 
+producer has the lock. 
+producing object number: 23 [!]
+consuming object number 23 [!]
+consumer has the lock. 
+consumer waiting, empty buffer ... 
+producer exiting. 
+consumer exiting. 
+main() exiting properly, both threads have terminated. 

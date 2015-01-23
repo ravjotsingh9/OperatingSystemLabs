@@ -1,0 +1,7 @@
+#!/bin/bash
+clear
+echo "If the program donot found any difference in the two output file, Nothing will be displayed.Prompt will appear."
+./bound 0 > t0
+./bound 1 > t1
+./bound -r 3 > tx
+diff t1 tx
